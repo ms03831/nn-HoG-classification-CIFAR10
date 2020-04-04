@@ -1,7 +1,7 @@
 # Classification of the CIFAR10 dataset:
 We use the following algorithms to classify the CIFAR10 dataset.
-###### - CNN
-###### - Histrogram of Oriented Gradients (with SVM for classification)
+##### - CNN
+##### - Histrogram of Oriented Gradients (with SVM for classification)
 -------
 ## Assignment 1 for a Computer Vision course taken in Spring 2020:
   ### Objectives of the assignment:
